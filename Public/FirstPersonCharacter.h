@@ -32,7 +32,7 @@ public:
 };
 
 UCLASS()
-class JOHNCHARACTERS_API AFirstPersonCharacter : public ACharacter
+class UEPROJECT_API AFirstPersonCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

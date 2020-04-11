@@ -7,7 +7,7 @@
 #include "TPCharacter.generated.h"
 
 UCLASS()
-class JOHNCHARACTERS_API ATPCharacter : public ACharacter
+class UEPROJECT_API ATPCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

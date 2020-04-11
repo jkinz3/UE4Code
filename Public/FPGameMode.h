@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class JOHNCHARACTERS_API AFPGameMode : public AGameMode
+class UEPROJECT_API AFPGameMode : public AGameMode
 {
 	GENERATED_BODY()
 

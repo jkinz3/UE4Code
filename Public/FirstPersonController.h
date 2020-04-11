@@ -9,7 +9,7 @@
 
 
 UCLASS()
-class JOHNCHARACTERS_API AFirstPersonPlayerController : public APlayerController
+class UEPROJECT_API AFirstPersonPlayerController : public APlayerController
 {
 	GENERATED_BODY()
 
